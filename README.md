@@ -2,8 +2,8 @@
 
 This repository contains two small projects where I applied **Tailwind CSS** to practice styling:
 
-1. **Responsive Card**: A card layout built using Tailwind CSS to showcase responsive design.
-2. **Static Website**: A simple static page built with Tailwind, demonstrating its utility-first design approach.
+1. **Responsive Card**: A card layout built using Tailwind CSS to showcase responsive design(public/responsiveCard.html).
+2. **Static Website**: A simple static page built with Tailwind, demonstrating its utility-first design approach(public/responsiveWebsite.html).
 
 ## Why Tailwind?
 
